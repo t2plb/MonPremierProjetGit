@@ -29,3 +29,9 @@ void feature_rebase2()
     printf("Hello feature rebase 2");
     return 0;
 }
+
+void feature_rebase3()
+{
+    printf("Hello feature rebase 3");
+    return 0;
+}
